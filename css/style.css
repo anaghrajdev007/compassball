@@ -14979,7 +14979,7 @@ ul:not(.navbar-nav):not(.nav) li {
 }
 @media(max-width:450px){
     .fullsize-bg{
-        background-image: url("../img/Frame\ 84.jpg");
+        background-image: url("../img/try02.jpg");
     }
     .navbar-brand-top{
         height: 40px;
@@ -14991,6 +14991,22 @@ ul:not(.navbar-nav):not(.nav) li {
     }
     footer{
         text-align: center!important;
+        
+    }
+    .title{
+        margin-top: 350px!important;
+    }
+    .footerblock{
+        word-spacing: normal;
+        font-weight: bolder;
+        font-size: x-large;
+    }
+    .f-hight{
+        height: auto;
+        overflow: hidden;
+        justify-items: first baseline;
+
+        
     }
 }
 
