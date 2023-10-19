@@ -1,0 +1,396 @@
+.BannerIcon{
+	background-color:#094;
+	/*padding:5px 5px 5px 5px;*/
+	width:85px;
+	height:85px;
+}
+
+.BannerGreen{
+	background-color:#fff;
+    border-top: solid 3px #094;
+	padding:5px 5px 5px 5px;
+}
+
+.BannerGreenCenter{
+	background-color:#094;
+}
+.BannerGreenEnd{
+	background-color:#094;
+	width:85px;
+	height:1px;
+}
+
+.BannerWhite{
+	background-color:#FFF;
+	width: 10px;
+	height:1px;
+}
+#BannerTitle {
+	font-weight:bold;
+	font-size:2.5em;
+	font-family:"Book Antiqua";
+	color:#000;
+	margin-left:5px;
+}
+#BannerSubtitle {
+	font-weight:bold;
+	font-size:1.2em;
+	font-family:"Book Antiqua";
+	font-style: italic;
+	color:#fff;
+	margin-left:10px;
+}
+
+.BannerIcon a{
+	color:#fff;
+}
+
+.IntroText{
+	font-size:larger;
+	font-family:"Arial, Helvetica, sans-serif";
+	/*font-style:italic;*/
+	color:#555;	
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 3px;
+}
+.txtLoginArea {
+	/*font-weight:bold;*/
+	font-size:x-large;
+	text-align:right;
+	
+}
+
+.btnLogin {
+	color:#094;
+	height:55px;
+	width:130px;
+	font-size:large;
+	font-family:"Book Antiqua";
+	color:#000;
+	margin-left:-3px;	
+}
+
+.btnLoginArea {
+	color:#094;
+	height:55px;
+	width:130px;
+	font-size:large;
+	font-family:"Book Antiqua";
+	color:#000;	
+}
+.FootNote {
+	font-size:small;
+	font-family:"Book Antiqua";
+	color:#F00;	
+}
+.MembershipExplanation {
+	font-size:small;
+	font-family:"Book Antiqua";
+	color:#555;	
+	
+}
+#divMainContentArea {
+	width:60%;
+	position:absolute;
+	top:100px;
+	left:20%;
+	
+}
+#divFooterArea {
+	font-size:small;
+	font-family:"Book Antiqua";
+	color:#555;	
+	position:absolute;
+	left:20%;
+	right:20%;
+	top:90%;
+	text-align:center;
+}
+#divBanner {
+	position:relative;
+	left:0px;
+	top: 0px;
+	height:85px;
+}
+#divHowItWorks {
+	background-color:#dff;
+	position:absolute;
+	top:100px;
+	left:81%;
+	right:8px;
+	padding: 5px 5px 5px 5px;
+	font-size:small;
+	font-family:"Arial";
+	color:#000;	
+}
+#divHighlights {
+	background-color:#fff;
+	position:absolute;
+	top:140px;
+	left:50%;
+	right:8px;
+	padding: 5px 5px 5px 5px;
+	font-size:small;
+	font-family:"Arial";
+	color:#000;	
+}
+#divHighlights ul li{
+	margin-top: 1em;
+	position:relative;
+	left:-20px;
+	color:#094;
+	font-weight:bold;
+}
+#divHowItWorks ol li{
+	margin-top: 1em;
+	position:relative;
+	left:-20px;
+}
+#HowItWorksTitleText {
+	background-color:#44f;
+	font-size:medium;
+	font-family:"Arial";
+	color:#fff;	
+	margin-left:-5px;
+	margin-right:-5px;
+	margin-top:-5px;
+	padding-left:5px;
+	padding-top:2px;
+	padding-bottom:2px;
+	padding-right:5px;
+	font-weight: bold;
+}
+#HighlightsTitleText {
+	background-color:#FFF;
+	font-size:medium;
+	font-family:"Arial";
+	color:#094;	
+	margin-left:-5px;
+	margin-right:-5px;
+	margin-top:-5px;
+	padding-left:5px;
+	padding-top:2px;
+	padding-bottom:2px;
+	padding-right:5px;
+	font-weight: bold;
+	border-bottom:solid 1px #000;
+}
+.HowItWorksDetails {
+	font-size:small;
+	font-family:"Arial";
+	color:#000;	
+	font-weight: bold;
+	text-align:right;
+}
+.TournamentAreasTitleText {
+	background-color:#094;
+	font-size:medium;
+	font-family:"Arial";
+	color:#fff;	
+	margin-left:0px;
+	margin-right:5px;
+	margin-top:0px;
+	padding-left:5px;
+	padding-top:2px;
+	padding-bottom:2px;
+	padding-right:5px;
+	font-weight: bold;
+}
+#divLeft {
+	background-color:#cfc;
+	position:absolute;
+	top:100px;
+	left:10px;
+	right:81%;
+	padding: 5px 5px 5px 5px;
+	font-size:small;
+	font-family:"Arial";
+	color:#000;	
+}
+#divLeft ul li{
+	margin-top: 1em;
+	position:relative;
+	left:-20px;
+	list-style:disc;
+}
+#divHelp {
+	background-color:#fff;
+	padding: 15px 0px 0px 0px;
+	font-size:x-small;
+	font-family:"Arial";
+	color:#000;	
+	margin-left:-5px;
+	margin-right:-5px;
+	margin-bottom:-20px;
+}
+#divHelp ul li{
+	margin-top: .5em;
+	position:relative;
+	list-style:disc;
+}
+#LoginTitleText {
+	background-color:#222;
+	font-size:medium;
+	font-family:"Arial";
+	color:#fff;	
+	margin-left:-5px;
+	margin-right:-5px;
+	margin-top:-5px;
+	padding-left:5px;
+	padding-top:2px;
+	padding-bottom:2px;
+	padding-right:5px;
+	font-weight: bold;
+}
+
+.CostText {
+	font-size:large;
+	font-family:"Arial";
+	color:#094;	
+	margin-left:-5px;
+	margin-right:-5px;
+	margin-top:-5px;
+	padding-left:5px;
+	padding-top:2px;
+	padding-bottom:2px;
+	padding-right:5px;
+	font-weight: bold;
+}
+#divBuyNowText 
+{
+    font-size:large;
+    position:absolute;
+    width:800px;
+    background-color:#fc3;
+    padding:10px;
+    border:solid 2px #000;
+}
+#divInvitationalBuyNowText 
+{
+    font-size:large;
+    position:absolute;
+    width:630px;
+    background-color:#f90;
+    padding:10px;
+    border:solid 3px #000;
+}
+#divRegistrationCancelled
+{
+    font-size:large;
+    position:absolute;
+    left:30%;
+    right:30%;
+    top:30%;
+    background-color:#094;
+    padding:10px;
+    border:solid 2px #000;
+}
+
+.MovieTitle 
+{
+    font-weight: bold;
+    margin: 5px;
+}
+
+.NewToCompass {
+	/*font-weight:bold;*/
+	font-size:x-large;
+	text-align:left;
+	padding-bottom: 10px;
+	
+}
+
+.Hidden 
+{
+    display:none;
+}
+.MovieLinks 
+{
+    padding-left: 5px;
+    background-color: #CCC;
+    font-size: small;
+    width:395px;
+    text-align: left;
+}
+
+.divMainPageFooter {
+	font-size:small;
+	font-family:"Book Antiqua";
+	color:#555;	
+	height: 25px;
+	margin-top: 15px;
+	padding-top: 5px;
+	text-align:left;
+	border: solid 3px #094;
+}
+.divARCMainPageFooter {
+	font-size:small;
+	font-family:"Book Antiqua";
+	color:#555;	
+	width: 845px;
+	height: 25px;
+	margin-top: 15px;
+	padding-top: 5px;
+	text-align:left;
+	border: solid 3px #730;
+}
+.divInteriorPageFooter {
+	font-size:small;
+	font-family:"Book Antiqua";
+	color:#555;	
+	width: 100%;
+	height: 25px;
+	margin-top: 5px;
+	padding-top: 5px;
+	text-align:left;
+	border: solid 3px #094;
+}
+.SignupText{
+	font-size:large;
+	font-family:"Book Antiqua";
+	/*font-style:italic;*/
+	color:#555;	
+	padding-top: 4px;
+	padding-bottom: 2px;
+	padding-left: 3px;
+}
+.LoginError{
+    color:red;
+}
+.RegistrationMessagePage{
+    font-family:Verdana;
+    font-size:30px;
+    margin-left:-20px
+}
+.FormDirections {
+    font-family: Verdana;
+    font-size: 24px;
+    margin-left: 100px;
+}
+.ErrorMessage {
+    font-size: 20px;
+    line-height:12px;
+    color:red;
+}
+.ErrorMessageBulletItem {
+    font-family: Verdana;
+    font-size: 8px;
+    color: blue;
+    margin-top: -20px;
+}
+.form-group {
+    margin-bottom: 1rem
+}
+
+.form-text {
+    display: block;
+    margin-top: .25rem
+}
+
+.form-row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -5px;
+    margin-left: -5px
+}
