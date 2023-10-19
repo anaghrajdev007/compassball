@@ -14561,7 +14561,8 @@ select.form-control {
 footer {
     padding-top: 2rem;
     padding-bottom: 2rem;
-    background-color: #343a40
+    background-color: #343a40;
+    
 }
 
 footer .footerblock {
@@ -14790,6 +14791,9 @@ a.big-link {
         transform: rotate(0)
     }
 }
+.fb{
+    background-color: white !important;
+}
 
 @keyframes swing {
     33% {
@@ -14993,8 +14997,11 @@ ul:not(.navbar-nav):not(.nav) li {
         text-align: center!important;
         
     }
-    .title{
-        margin-top: 350px!important;
+    .light{
+        padding-top: 600px !important;
+        font-weight: bolder !important;
+        display: block !important;
+
     }
     .footerblock{
         word-spacing: normal;
@@ -15002,11 +15009,29 @@ ul:not(.navbar-nav):not(.nav) li {
         font-size: x-large;
     }
     .f-hight{
-        height: auto;
+        height: auto!important;
         overflow: hidden;
-        justify-items: first baseline;
+        justify-items: center;
+        max-height: max-content!important;
 
         
+    }
+    .title{
+        margin-top: -20% !important;
+    }
+    .box-box{
+        margin-top: -80px!important;
+    }
+    .subtitle{
+        text-align: center!important;
+    }
+    .btn{
+        justify-content: center;
+        align-self: center!important;
+        margin-left: 25%!important;
+    }
+    .e-m{
+        margin-left: 30%!important;
     }
 }
 
