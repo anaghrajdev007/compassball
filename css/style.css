@@ -14998,7 +14998,7 @@ ul:not(.navbar-nav):not(.nav) li {
         
     }
     .light{
-        padding-top: 600px !important;
+        padding-top: 500px !important;
         font-weight: bolder !important;
         display: block !important;
 
@@ -15037,7 +15037,7 @@ ul:not(.navbar-nav):not(.nav) li {
         background-image: url("../img/mregnow.jpg");
         padding-left: 30px!important;
         width: 370px !important;
-        overflow:  !important;
+        overflow: hidden !important;
     }
 }
 
