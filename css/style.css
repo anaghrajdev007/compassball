@@ -15033,6 +15033,12 @@ ul:not(.navbar-nav):not(.nav) li {
     .e-m{
         margin-left: 30%!important;
     }
+    .rn{
+        background-image: url("../img/mregnow.jpg");
+        padding-left: 30px!important;
+        width: 370px !important;
+        overflow:  !important;
+    }
 }
 
 #sourceMappingURL=pickleball.app.min.css.map
